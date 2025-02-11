@@ -1,5 +1,5 @@
 # The-Fashion-Analyzer
-The Fashion Analyzer uses the Google Trends API to track fashion brands popularity. It uses this data then to visualize and create a stock market-like report. It sends automated notifications via the Telegram app to keep the user up-to-date on fashion brand trends. 
+The Fashion Analyzer uses the Google Trends API to track fashion brands popularity. It uses this data then to visualize and create a stock market-like report. It sends notifications via the Telegram app to keep the user up-to-date on fashion brand trends. 
 
 
 
