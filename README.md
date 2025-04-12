@@ -17,7 +17,7 @@ Right now it tracks the trends for the following fashion brands:
 9. Burberry
 10. Valentino
 
-This is one of the many sources being used by thefashionstockmarket website and instagram to analyze fashion trends.
+This is one of the many sources being used by thefashionstockmarket to analyze fashion trends.
 
 <img src="trend_report.jpg" align="left" width="500">
 
